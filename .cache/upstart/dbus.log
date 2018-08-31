@@ -1,0 +1,11 @@
+
+** (zeitgeist-fts:2652): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+Activating service name='org.gtk.vfs.Metadata'
+Successfully activated service 'org.gtk.vfs.Metadata'
+Activating service name='org.a11y.Bus'
+Failed to activate service 'org.a11y.Bus': timed out
+Activating service name='com.ubuntu.OneConf'
+Successfully activated service 'com.ubuntu.OneConf'
+WARNING:oneconf.hosts:Error in loading other_hosts file: [Errno 2] No such file or directory: '/home/eswecha/.cache/oneconf/a226988811a077dce72031d758c69532/other_hosts'
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
